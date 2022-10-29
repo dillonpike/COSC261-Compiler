@@ -1,0 +1,4 @@
+z := 2;
+if not not z > 3 and not not not z < 1 then
+  z := 1
+end

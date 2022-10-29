@@ -1,0 +1,4 @@
+z := 2;
+if z < 3 and z > 1 then
+  z := 1
+end
